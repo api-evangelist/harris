@@ -1,7 +1,11 @@
 aid: harris
-url: https://raw.githubusercontent.com/api-evangelist/harris/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/harris/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.harris.com
+description: >-
+  At L3Harris, we anticipate and mitigate risk with agile end-to-end solutions that
+  meet our customers' mission-critical needs across all domains.
