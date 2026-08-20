@@ -24,6 +24,15 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/harris.png
 tags:
   - Education
+  - Financial-Services
+  - Healthcare
+  - Insurance
+  - Public Sector
+  - Utilities
+  - Vertical Market Software
+  - Fortune 500
+tags_raw:
+  - Education
   - Financial Services
   - Healthcare
   - Insurance
