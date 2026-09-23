@@ -1,7 +1,9 @@
 ---
 title: Biden-Harris administration announces groundbreaking AI ...
 url: https://www.dol.gov/newsroom/releases/osec/osec20240516
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harris" press release artificial intelligence'
 position: 5
 source: serpapi-google

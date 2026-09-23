@@ -1,7 +1,9 @@
 ---
 title: Chairman Jordan Seeks Documents About Biden-Harris ...
 url: http://judiciary.house.gov/media/press-releases/chairman-jordan-seeks-documents-about-biden-harris-censorship-pressure
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harris" press release artificial intelligence'
 position: 2
 source: serpapi-google

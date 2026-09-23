@@ -1,7 +1,9 @@
 ---
 title: Biden Administration Actions on AI
 url: https://www.epi.org/database-of-biden-administration-actions-on-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harris" press release artificial intelligence'
 position: 4
 source: serpapi-google

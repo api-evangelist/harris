@@ -1,7 +1,9 @@
 ---
 title: Vice President Harris Announces OMB Policy to Advance ...
 url: https://www.presidency.ucsb.edu/documents/fact-sheet-vice-president-harris-announces-omb-policy-advance-governance-innovation-and
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harris" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Biden-Harris Administration Announces Regulatory ...
 url: https://www.bis.gov/press-release/biden-harris-administration-announces-regulatory-framework-responsible-diffusion-advanced-artificial
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harris" press release artificial intelligence'
 position: 1
 source: serpapi-google
